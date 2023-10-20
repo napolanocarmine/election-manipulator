@@ -1,0 +1,176 @@
+
+0.2*shapley + distanza 
+MEDIA_20 =  1425.6666666666667
+MEDIA_20_NO_UNIFORM_BELIEFS =  1427.6190476190477
+MEDIA_10 = 1701.2727272727273
+MEDIA_10_NO_UNIFORM_BELIEFS = 1687.8181818181818 (-441  -513)
+MEDIA_40 =
+MEDIA_40_NO_UNIFORM_BELIEFS = 
+
+0.2*shapley + distanza (con condizione di esclusione candidato)
+MEDIA_20=  1430.1904761904761
+MEDIA_20_NO_UNIFORM_BELIEFS =  1431.7619047619048
+MEDIA_10 = 1715.0  (-234  -561)
+MEDIA_10_NO_UNIFORM_BELIEFS = 1698.2727272727273 (-444  -533)
+MEDIA_40 = 1279.2682926829268
+MEDIA_40_NO_UNIFORM_BELIEFS =  1278.439024390244
+MEDIA_5 = 2171.5 (-728 -660)
+MEDIA_5_NO_UNIFORM = 2165.6666666666665 (-818  -630)
+
+MEDIA_10_RANDOM_NO_UNIFORM =  2164.818181818182 (-189 -553)
+MEDIA_10_RANDOM_UNIFORM = 2164.0 (-268  -382)
+
+
+MEDIA_5_MUSAE_NO_UNIFORM =  5190.0(NO NEG)  
+MEDIA_5_MUSAE_UNIFORM = 5193.5 (NO NEG)
+MEDIA_10_MUSAE_NO_UNIFORM =  3718.2727272727275 (NO NEG)  
+MEDIA_10_MUSAE_UNIFORM = 3738.818181818182 (NO NEG)
+MEDIA_20_MUSAE_NO_UNIFORM =  2850.095238095238 (NO NEG)  
+MEDIA_20_MUSAE_UNIFORM = 2849.4285714285716 (NO NEG)
+
+##########################################################################################
+##########################################################################################
+##########################################################################################
+##########################################################################################
+
+
+0.15*shapley + distanza
+MEDIA_20=  1424.4761904761904
+MEDIA_20_NO_UNIFORM_BELIEFS = 1424.0
+MEDIA_10 =
+MEDIA_10_NO_UNIFORM_BELIEFS = 1686.909090909091
+MEDIA_40 =
+MEDIA_40_NO_UNIFORM_BELIEFS = 
+
+0.15*shapley + distanza (con condizione di esclusione candidato)
+MEDIA_20=  1428.047619047619
+MEDIA_20_NO_UNIFORM_BELIEFS = 1427.3809523809523
+MEDIA_10 = 1701.4545454545455
+MEDIA_10_NO_UNIFORM_BELIEFS = 1691.6363636363637
+MEDIA_40 =
+MEDIA_40_NO_UNIFORM_BELIEFS = 
+
+##########################################################################################
+
+
+0.3*shapley + distanza 
+MEDIA_20 =  1417.5714285714287
+MEDIA_20_NO_UNIFORM_BELIEFS = 1420.2380952380952
+MEDIA_10 = 1710.4545454545455
+MEDIA_10_NO_UNIFORM_BELIEFS = 1678.1818181818182
+MEDIA_40 =
+MEDIA_40_NO_UNIFORM_BELIEFS = 
+
+0.3*shapley + distanza (con condizione di esclusione candidato)
+MEDIA_20=  1423.3333333333333
+MEDIA_20_NO_UNIFORM_BELIEFS = 1425.6190476190477
+MEDIA_10 =
+MEDIA_10_NO_UNIFORM_BELIEFS = 1693.1818181818182
+MEDIA_40 =
+MEDIA_40_NO_UNIFORM_BELIEFS = 
+
+##########################################################################################
+
+0.4*shapley + distanza
+MEDIA_20 =  1407.142857142857
+MEDIA_20_NO_UNIFORM_BELIEFS = 1409.7619047619048
+MEDIA_10 = 
+MEDIA_10_NO_UNIFORM_BELIEFS = 1660.6363636363637
+MEDIA_40 =
+MEDIA_40_NO_UNIFORM_BELIEFS = 
+
+0.4*shapley + distanza (con condizione di esclusione candidato)
+MEDIA_20=  1412.0
+MEDIA_20_NO_UNIFORM_BELIEFS = 1414.7619047619048
+MEDIA_10 = 1683.0
+MEDIA_10_NO_UNIFORM_BELIEFS = 1683.0
+MEDIA_40 =
+MEDIA_40_NO_UNIFORM_BELIEFS = 
+
+##########################################################################################
+
+
+0.1*shapley + distanza
+MEDIA_20=  1405.047619047619
+MEDIA_20_NO_UNIFORM_BELIEFS = 1403.7619047619048
+MEDIA_10 =
+MEDIA_10_NO_UNIFORM_BELIEFS = 
+
+0.1*shapley + distanza (con condizione di esclusione candidato)
+MEDIA_20 =  1406.2857142857142
+MEDIA_20_NO_UNIFORM_BELIEFS = 1404.3809523809523
+MEDIA_10 =
+MEDIA_10_NO_UNIFORM_BELIEFS = 
+
+##########################################################################################
+
+
+0.5*shapley + distanza
+MEDIA_20 =  1401.0
+MEDIA_20_NO_UNIFORM_BELIEFS = 1402.904761904762
+MEDIA_10 =
+MEDIA_10_NO_UNIFORM_BELIEFS = 
+
+0.5*shapley + distanza (con condizione di esclusione candidato)
+MEDIA_20 =  1404.904761904762
+MEDIA_20_NO_UNIFORM_BELIEFS = 1408.2857142857142
+MEDIA_10 = 1666.4545
+MEDIA_10_NO_UNIFORM_BELIEFS = 
+
+##########################################################################################
+
+0.6*shapley + distanza (con condizione di esclusione candidato)
+MEDIA_20 =  1400.8095238095239
+MEDIA_20_NO_UNIFORM_BELIEFS = 1404.4761904761904
+MEDIA_10 =
+MEDIA_10_NO_UNIFORM_BELIEFS = 
+
+##########################################################################################
+
+
+shapley+distanza  
+MEDIA_20 =  1384.5714285714287
+MEDIA_20_NO_UNIFORM_BELIEFS = 1384.7619047619048
+MEDIA_10 = 1610.3636363636363 (-382  -460)
+MEDIA_10_NO_UNIFORM_BELIEFS = 
+
+shapley+distanza (con condizione di esclusione candidato) 
+MEDIA_20=  1393.1904761904761
+MEDIA_20_NO_UNIFORM_BELIEFS =  1393.5238095238096
+MEDIA_10 = 1637.1818181818182  (-370 -459)
+MEDIA_10_NO_UNIFORM_BELIEFS = 
+
+##########################################################################################
+
+shapley + 0.5*distanza
+MEDIA_20 =  1373.4761904761904
+MEDIA_20_NO_UNIFORM_BELIEFS = 1374.3809523809523
+MEDIA_10 =
+MEDIA_10_NO_UNIFORM_BELIEFS = 
+
+shapley + 0.5*distanza (con condizione di esclusione candidato)
+MEDIA_20 =  1379.2857142857142
+MEDIA_20_NO_UNIFORM_BELIEFS = 1379.095238095238
+MEDIA_10 =
+MEDIA_10_NO_UNIFORM_BELIEFS = 
+
+##########################################################################################
+
+
+solo shapley
+MEDIA_20 =  1360.1904761904761
+MEDIA_20_NO_UNIFORM_BELIEFS = 1360.2857142857142
+MEDIA_10 = 1570.909090909091
+MEDIA_10_NO_UNIFORM_BELIEFS = 1564.6363636363637 (-410 -473)
+
+solo shapley (con condizione di esclusione candidato)
+MEDIA_20 =  1367.952380952381
+MEDIA_20_NO_UNIFORM_BELIEFS = 1369.4285714285713
+MEDIA_10 = 1604.0
+MEDIA_10_NO_UNIFORM_BELIEFS = 1600.4545454545455 (-404  -481)
+MEDIA_40 =
+MEDIA_40_NO_UNIFORM_BELIEFS = 
+
+##########################################################################################
+
+
